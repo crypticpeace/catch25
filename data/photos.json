@@ -1,0 +1,998 @@
+{
+"aadi-purav": {
+"cutout": false,
+"src": "/images/toppers/aadi-purav.webp"
+},
+"aakash-sharma": {
+"cutout": true,
+"src": "/images/results/aakash-sharma.webp"
+},
+"aarnav-gahlot": {
+"cutout": true,
+"src": "/images/results/aarnav-gahlot.webp"
+},
+"aayush-vengurlekar": {
+"cutout": false,
+"src": "/images/toppers/aayush-vengurlekar.webp"
+},
+"abdullah-shaikh": {
+"cutout": true,
+"src": "/images/results/abdullah-shaikh.webp"
+},
+"adish-shah": {
+"cutout": false,
+"src": "/images/toppers/adish-shah.webp"
+},
+"aditya-godwa": {
+"cutout": false,
+"src": "/images/toppers/aditya-godwa.webp"
+},
+"aditya-hamirani": {
+"cutout": false,
+"src": "/images/toppers/aditya-hamirani.webp"
+},
+"aditya-shaw": {
+"cutout": false,
+"src": "/images/toppers/aditya-shaw.webp"
+},
+"aditya-tirthkar": {
+"cutout": false,
+"src": "/images/toppers/aditya-tirthkar.webp"
+},
+"affan-ansari": {
+"cutout": false,
+"src": "/images/toppers/affan-ansari.webp"
+},
+"akhilesh-yadav": {
+"cutout": false,
+"src": "/images/toppers/akhilesh-yadav.webp"
+},
+"akisha-yadav": {
+"cutout": false,
+"src": "/images/toppers/akisha-yadav.webp"
+},
+"akshar-chawda": {
+"cutout": false,
+"src": "/images/toppers/akshar-chawda.webp"
+},
+"akshat-chauhan": {
+"cutout": false,
+"src": "/images/toppers/akshat-chauhan.webp"
+},
+"akshat-chawda": {
+"cutout": false,
+"src": "/images/toppers/akshat-chawda.webp"
+},
+"akshay-bajpai": {
+"cutout": false,
+"src": "/images/toppers/akshay-bajpai.webp"
+},
+"aman-gupta": {
+"cutout": false,
+"src": "/images/toppers/aman-gupta.webp"
+},
+"anand-dangi": {
+"cutout": false,
+"src": "/images/toppers/anand-dangi.webp"
+},
+"anika-agarwal": {
+"cutout": true,
+"src": "/images/results/anika-agarwal.webp"
+},
+"aniket-pethe": {
+"cutout": false,
+"src": "/images/toppers/aniket-pethe.webp"
+},
+"anish-gurav": {
+"cutout": true,
+"src": "/images/results/anish-gurav.webp"
+},
+"anish-jaiswal": {
+"cutout": false,
+"src": "/images/toppers/anish-jaiswal.webp"
+},
+"anushka-more": {
+"cutout": true,
+"src": "/images/results/anushka-more.webp"
+},
+"anushka-panchal": {
+"cutout": true,
+"src": "/images/results/anushka-panchal.webp"
+},
+"arwa-vasaiwala": {
+"cutout": false,
+"src": "/images/toppers/arwa-vasaiwala.webp"
+},
+"arya-shewale": {
+"cutout": false,
+"src": "/images/toppers/arya-shewale.webp"
+},
+"aryan-ashra": {
+"cutout": true,
+"src": "/images/results/aryan-ashra.webp"
+},
+"aryan-bhalerao": {
+"cutout": false,
+"src": "/images/toppers/aryan-bhalerao.webp"
+},
+"aryan-singal": {
+"cutout": true,
+"src": "/images/results/aryan-singal.webp"
+},
+"ashish-singh": {
+"cutout": false,
+"src": "/images/toppers/ashish-singh.webp"
+},
+"ashok-devda": {
+"cutout": false,
+"src": "/images/toppers/ashok-devda.webp"
+},
+"ashok-patel": {
+"cutout": true,
+"src": "/images/results/ashok-patel.webp"
+},
+"ashwini-mukkan": {
+"cutout": false,
+"src": "/images/toppers/ashwini-mukkan.webp"
+},
+"ashwini-yadav": {
+"cutout": false,
+"src": "/images/toppers/ashwini-yadav.webp"
+},
+"atharva-bhurke": {
+"cutout": false,
+"src": "/images/toppers/atharva-bhurke.webp"
+},
+"atharva-mahadik": {
+"cutout": false,
+"src": "/images/toppers/atharva-mahadik.webp"
+},
+"atharva-tambe": {
+"cutout": false,
+"src": "/images/toppers/atharva-tambe.webp"
+},
+"ayan-khan": {
+"cutout": true,
+"src": "/images/results/ayan-khan.webp"
+},
+"ayesha-waghdare": {
+"cutout": true,
+"src": "/images/results/ayesha-waghdare.webp"
+},
+"ayush-patel": {
+"cutout": true,
+"src": "/images/results/ayush-patel.webp"
+},
+"ayush-yadav": {
+"cutout": true,
+"src": "/images/results/ayush-yadav.webp"
+},
+"banaj-sharma": {
+"cutout": true,
+"src": "/images/results/banaj-sharma.webp"
+},
+"bhaumik-mali": {
+"cutout": true,
+"src": "/images/results/bhaumik-mali.webp"
+},
+"bhavya-gada": {
+"cutout": false,
+"src": "/images/toppers/bhavya-gada.webp"
+},
+"bhavya-solanki": {
+"cutout": true,
+"src": "/images/results/bhavya-solanki.webp"
+},
+"bhumi-dangodra": {
+"cutout": false,
+"src": "/images/toppers/bhumi-dangodra.webp"
+},
+"bhumi-shah": {
+"cutout": false,
+"src": "/images/toppers/bhumi-shah.webp"
+},
+"bhushan-mundhe": {
+"cutout": false,
+"src": "/images/toppers/bhushan-mundhe.webp"
+},
+"bhuvanesh-trivedi": {
+"cutout": false,
+"src": "/images/toppers/bhuvanesh-trivedi.webp"
+},
+"chaitya-kariya": {
+"cutout": true,
+"src": "/images/results/chaitya-kariya.webp"
+},
+"chandan-gupta": {
+"cutout": true,
+"src": "/images/results/chandan-gupta.webp"
+},
+"chirag-reihan": {
+"cutout": false,
+"src": "/images/toppers/chirag-reihan.webp"
+},
+"chitra-pandey": {
+"cutout": false,
+"src": "/images/toppers/chitra-pandey.webp"
+},
+"darshan-davda": {
+"cutout": false,
+"src": "/images/toppers/darshan-davda.webp"
+},
+"darshan-dushing": {
+"cutout": false,
+"src": "/images/toppers/darshan-dushing.webp"
+},
+"darshan-salunkhe": {
+"cutout": false,
+"src": "/images/toppers/darshan-salunkhe.webp"
+},
+"deepak-kesarwani": {
+"cutout": true,
+"src": "/images/results/deepak-kesarwani.webp"
+},
+"devansh-sanghvi": {
+"cutout": false,
+"src": "/images/toppers/devansh-sanghvi.webp"
+},
+"devarsh-shah": {
+"cutout": false,
+"src": "/images/toppers/devarsh-shah.webp"
+},
+"dharmik-gada": {
+"cutout": false,
+"src": "/images/toppers/dharmik-gada.webp"
+},
+"dheeraj-prajapati": {
+"cutout": true,
+"src": "/images/results/dheeraj-prajapati.webp"
+},
+"dhruva-panmand": {
+"cutout": false,
+"src": "/images/toppers/dhruva-panmand.webp"
+},
+"dhruvil-sarvaiya": {
+"cutout": false,
+"src": "/images/toppers/dhruvil-sarvaiya.webp"
+},
+"disha-kadave": {
+"cutout": false,
+"src": "/images/toppers/disha-kadave.webp"
+},
+"divyam-golambare": {
+"cutout": false,
+"src": "/images/toppers/divyam-golambare.webp"
+},
+"divyansh-pandey": {
+"cutout": true,
+"src": "/images/results/divyansh-pandey.webp"
+},
+"diya-rughani": {
+"cutout": false,
+"src": "/images/toppers/diya-rughani.webp"
+},
+"drashti-padia": {
+"cutout": true,
+"src": "/images/results/drashti-padia.webp"
+},
+"durvesh-ghawali": {
+"cutout": false,
+"src": "/images/toppers/durvesh-ghawali.webp"
+},
+"ezekeil-mahe": {
+"cutout": true,
+"src": "/images/results/ezekeil-mahe.webp"
+},
+"firdosh-shaikh": {
+"cutout": false,
+"src": "/images/toppers/firdosh-shaikh.webp"
+},
+"garima-singh": {
+"cutout": false,
+"src": "/images/toppers/garima-singh.webp"
+},
+"gaurang-ajgoankar": {
+"cutout": false,
+"src": "/images/toppers/gaurang-ajgoankar.webp"
+},
+"gaurang-gohil": {
+"cutout": false,
+"src": "/images/toppers/gaurang-gohil.webp"
+},
+"gaurav-chudasama": {
+"cutout": false,
+"src": "/images/toppers/gaurav-chudasama.webp"
+},
+"gaurav-lohati": {
+"cutout": false,
+"src": "/images/toppers/gaurav-lohati.webp"
+},
+"gautam-chavda": {
+"cutout": true,
+"src": "/images/results/gautam-chavda.webp"
+},
+"harsh-gagat": {
+"cutout": true,
+"src": "/images/results/harsh-gagat.webp"
+},
+"harsh-kumar": {
+"cutout": true,
+"src": "/images/results/harsh-kumar.webp"
+},
+"harsh-prabhu": {
+"cutout": false,
+"src": "/images/toppers/harsh-prabhu.webp"
+},
+"harsh-shah": {
+"cutout": false,
+"src": "/images/toppers/harsh-shah.webp"
+},
+"harshika-lodha": {
+"cutout": false,
+"src": "/images/toppers/harshika-lodha.webp"
+},
+"harshil-panchal": {
+"cutout": true,
+"src": "/images/results/harshil-panchal.webp"
+},
+"harshita-gauda": {
+"cutout": true,
+"src": "/images/results/harshita-gauda.webp"
+},
+"heer-shah": {
+"cutout": false,
+"src": "/images/toppers/heer-shah.webp"
+},
+"hetam-patel": {
+"cutout": false,
+"src": "/images/toppers/hetam-patel.webp"
+},
+"hetvi-lad": {
+"cutout": false,
+"src": "/images/toppers/hetvi-lad.webp"
+},
+"hetvi-upadhyay": {
+"cutout": false,
+"src": "/images/toppers/hetvi-upadhyay.webp"
+},
+"hiya-dharia": {
+"cutout": true,
+"src": "/images/results/hiya-dharia.webp"
+},
+"ibrahim-shirazi": {
+"cutout": false,
+"src": "/images/toppers/ibrahim-shirazi.webp"
+},
+"jai-patel": {
+"cutout": true,
+"src": "/images/results/jai-patel.webp"
+},
+"jainam-mehta": {
+"cutout": false,
+"src": "/images/toppers/jainam-mehta.webp"
+},
+"jash-akhade": {
+"cutout": false,
+"src": "/images/toppers/jash-akhade.webp"
+},
+"jash-satra": {
+"cutout": true,
+"src": "/images/results/jash-satra.webp"
+},
+"jatin-vishwakarma": {
+"cutout": false,
+"src": "/images/toppers/jatin-vishwakarma.webp"
+},
+"jay-chandrani": {
+"cutout": false,
+"src": "/images/toppers/jay-chandrani.webp"
+},
+"jay-dave": {
+"cutout": false,
+"src": "/images/toppers/jay-dave.webp"
+},
+"jay-kale": {
+"cutout": false,
+"src": "/images/toppers/jay-kale.webp"
+},
+"jayom-shingte": {
+"cutout": false,
+"src": "/images/toppers/jayom-shingte.webp"
+},
+"jigar-shah": {
+"cutout": false,
+"src": "/images/toppers/jigar-shah.webp"
+},
+"jishan-patel": {
+"cutout": true,
+"src": "/images/results/jishan-patel.webp"
+},
+"jyoti-jaiswar": {
+"cutout": true,
+"src": "/images/results/jyoti-jaiswar.webp"
+},
+"jyotika-jeganathan": {
+"cutout": false,
+"src": "/images/toppers/jyotika-jeganathan.webp"
+},
+"kanav-patel": {
+"cutout": false,
+"src": "/images/toppers/kanav-patel.webp"
+},
+"karan-chourasia": {
+"cutout": true,
+"src": "/images/results/karan-chourasia.webp"
+},
+"karthik-poojari": {
+"cutout": false,
+"src": "/images/toppers/karthik-poojari.webp"
+},
+"kartik-jolapara": {
+"cutout": false,
+"src": "/images/toppers/kartik-jolapara.webp"
+},
+"kavya-rane": {
+"cutout": false,
+"src": "/images/toppers/kavya-rane.webp"
+},
+"kevin-dedhia": {
+"cutout": false,
+"src": "/images/toppers/kevin-dedhia.webp"
+},
+"keyur-jagad": {
+"cutout": false,
+"src": "/images/toppers/keyur-jagad.webp"
+},
+"khush-shah": {
+"cutout": false,
+"src": "/images/toppers/khush-shah.webp"
+},
+"khushal-dhanuka": {
+"cutout": false,
+"src": "/images/toppers/khushal-dhanuka.webp"
+},
+"kirtan-rathod": {
+"cutout": false,
+"src": "/images/toppers/kirtan-rathod.webp"
+},
+"kirtan-shah": {
+"cutout": false,
+"src": "/images/toppers/kirtan-shah.webp"
+},
+"krish-maurya": {
+"cutout": false,
+"src": "/images/toppers/krish-maurya.webp"
+},
+"krish-ranpura": {
+"cutout": true,
+"src": "/images/results/krish-ranpura.webp"
+},
+"krish-shetty": {
+"cutout": false,
+"src": "/images/toppers/krish-shetty.webp"
+},
+"krishna-shukla": {
+"cutout": true,
+"src": "/images/results/krishna-shukla.webp"
+},
+"krishna-tiwari": {
+"cutout": true,
+"src": "/images/results/krishna-tiwari.webp"
+},
+"kriti-shah": {
+"cutout": false,
+"src": "/images/toppers/kriti-shah.webp"
+},
+"kunal-sawant": {
+"cutout": false,
+"src": "/images/toppers/kunal-sawant.webp"
+},
+"lakshya-sudrik": {
+"cutout": false,
+"src": "/images/toppers/lakshya-sudrik.webp"
+},
+"lavneesh-sharma": {
+"cutout": false,
+"src": "/images/toppers/lavneesh-sharma.webp"
+},
+"mahavir-kacha": {
+"cutout": false,
+"src": "/images/toppers/mahavir-kacha.webp"
+},
+"mahesh-patel": {
+"cutout": false,
+"src": "/images/toppers/mahesh-patel.webp"
+},
+"manan-nandu": {
+"cutout": false,
+"src": "/images/toppers/manan-nandu.webp"
+},
+"manthan-vira": {
+"cutout": true,
+"src": "/images/results/manthan-vira.webp"
+},
+"maulik-sharma": {
+"cutout": false,
+"src": "/images/toppers/maulik-sharma.webp"
+},
+"mayank-gohil": {
+"cutout": false,
+"src": "/images/toppers/mayank-gohil.webp"
+},
+"meet-patel": {
+"cutout": false,
+"src": "/images/toppers/meet-patel.webp"
+},
+"meet-soni": {
+"cutout": false,
+"src": "/images/toppers/meet-soni.webp"
+},
+"mehul-kadam": {
+"cutout": false,
+"src": "/images/toppers/mehul-kadam.webp"
+},
+"mili-dube": {
+"cutout": true,
+"src": "/images/results/mili-dube.webp"
+},
+"mitesh-solanki": {
+"cutout": true,
+"src": "/images/results/mitesh-solanki.webp"
+},
+"mohammad-ali": {
+"cutout": false,
+"src": "/images/toppers/mohammad-ali.webp"
+},
+"mohit-parmar": {
+"cutout": false,
+"src": "/images/toppers/mohit-parmar.webp"
+},
+"mohit-rao": {
+"cutout": true,
+"src": "/images/results/mohit-rao.webp"
+},
+"murshid-shaikh": {
+"cutout": true,
+"src": "/images/results/murshid-shaikh.webp"
+},
+"nabeel-parve": {
+"cutout": false,
+"src": "/images/toppers/nabeel-parve.webp"
+},
+"nakshtra-jain": {
+"cutout": true,
+"src": "/images/results/nakshtra-jain.webp"
+},
+"nevan-panchal": {
+"cutout": false,
+"src": "/images/toppers/nevan-panchal.webp"
+},
+"nidhi-vishwakarma": {
+"cutout": true,
+"src": "/images/results/nidhi-vishwakarma.webp"
+},
+"nikhil-mishra": {
+"cutout": false,
+"src": "/images/toppers/nikhil-mishra.webp"
+},
+"nikhil-sharma": {
+"cutout": false,
+"src": "/images/toppers/nikhil-sharma.webp"
+},
+"nirav-sallan": {
+"cutout": false,
+"src": "/images/toppers/nirav-sallan.webp"
+},
+"nishit-mohnani": {
+"cutout": true,
+"src": "/images/results/nishit-mohnani.webp"
+},
+"nishtha-patel": {
+"cutout": true,
+"src": "/images/results/nishtha-patel.webp"
+},
+"nitin-goswami": {
+"cutout": false,
+"src": "/images/toppers/nitin-goswami.webp"
+},
+"nityananda-upadhyay": {
+"cutout": false,
+"src": "/images/toppers/nityananda-upadhyay.webp"
+},
+"om-dave": {
+"cutout": true,
+"src": "/images/results/om-dave.webp"
+},
+"om-patel": {
+"cutout": false,
+"src": "/images/toppers/om-patel.webp"
+},
+"onkar-musale": {
+"cutout": false,
+"src": "/images/toppers/onkar-musale.webp"
+},
+"pankaj-kandi": {
+"cutout": false,
+"src": "/images/toppers/pankaj-kandi.webp"
+},
+"pankit-vora": {
+"cutout": false,
+"src": "/images/toppers/pankit-vora.webp"
+},
+"paresh-kshetri": {
+"cutout": false,
+"src": "/images/toppers/paresh-kshetri.webp"
+},
+"parshva-shah": {
+"cutout": false,
+"src": "/images/toppers/parshva-shah.webp"
+},
+"parth-gada": {
+"cutout": false,
+"src": "/images/toppers/parth-gada.webp"
+},
+"parth-pimple": {
+"cutout": false,
+"src": "/images/toppers/parth-pimple.webp"
+},
+"parth-shibe": {
+"cutout": false,
+"src": "/images/toppers/parth-shibe.webp"
+},
+"parth-waghela": {
+"cutout": false,
+"src": "/images/toppers/parth-waghela.webp"
+},
+"pooja-chaurasia": {
+"cutout": false,
+"src": "/images/toppers/pooja-chaurasia.webp"
+},
+"pooja-swami": {
+"cutout": false,
+"src": "/images/toppers/pooja-swami.webp"
+},
+"poornam-singhal": {
+"cutout": false,
+"src": "/images/toppers/poornam-singhal.webp"
+},
+"prathmesh-baldkar": {
+"cutout": false,
+"src": "/images/toppers/prathmesh-baldkar.webp"
+},
+"priyam-gala": {
+"cutout": false,
+"src": "/images/toppers/priyam-gala.webp"
+},
+"pyanshu-vishwakarma": {
+"cutout": true,
+"src": "/images/results/pyanshu-vishwakarma.webp"
+},
+"rachit-shah": {
+"cutout": true,
+"src": "/images/results/rachit-shah.webp"
+},
+"raghavendra-tiwari": {
+"cutout": true,
+"src": "/images/results/raghavendra-tiwari.webp"
+},
+"rahul-lohar": {
+"cutout": false,
+"src": "/images/toppers/rahul-lohar.webp"
+},
+"rajiv-shah": {
+"cutout": false,
+"src": "/images/toppers/rajiv-shah.webp"
+},
+"rajvi-vora": {
+"cutout": false,
+"src": "/images/toppers/rajvi-vora.webp"
+},
+"rameez-shaikh": {
+"cutout": false,
+"src": "/images/toppers/rameez-shaikh.webp"
+},
+"rebekah-dais": {
+"cutout": false,
+"src": "/images/toppers/rebekah-dais.webp"
+},
+"reva-dusa": {
+"cutout": true,
+"src": "/images/results/reva-dusa.webp"
+},
+"ritesh-waigankar": {
+"cutout": true,
+"src": "/images/results/ritesh-waigankar.webp"
+},
+"ritesh-waigqnkar": {
+"cutout": true,
+"src": "/images/results/ritesh-waigqnkar.webp"
+},
+"ronak-darji": {
+"cutout": false,
+"src": "/images/toppers/ronak-darji.webp"
+},
+"ronak-hamirani": {
+"cutout": false,
+"src": "/images/toppers/ronak-hamirani.webp"
+},
+"ronak-parmar": {
+"cutout": false,
+"src": "/images/toppers/ronak-parmar.webp"
+},
+"ronaldo-gonsalves": {
+"cutout": false,
+"src": "/images/toppers/ronaldo-gonsalves.webp"
+},
+"rudraksh-mehta": {
+"cutout": false,
+"src": "/images/toppers/rudraksh-mehta.webp"
+},
+"rupesh-yadav": {
+"cutout": false,
+"src": "/images/toppers/rupesh-yadav.webp"
+},
+"rushabh-kenia": {
+"cutout": false,
+"src": "/images/toppers/rushabh-kenia.webp"
+},
+"saad-parkar": {
+"cutout": false,
+"src": "/images/toppers/saad-parkar.webp"
+},
+"sagar-sharma": {
+"cutout": false,
+"src": "/images/toppers/sagar-sharma.webp"
+},
+"sagar-tiwari": {
+"cutout": false,
+"src": "/images/toppers/sagar-tiwari.webp"
+},
+"sahil-shikare": {
+"cutout": false,
+"src": "/images/toppers/sahil-shikare.webp"
+},
+"saini-yadav": {
+"cutout": false,
+"src": "/images/toppers/saini-yadav.webp"
+},
+"saloni-parab": {
+"cutout": true,
+"src": "/images/results/saloni-parab.webp"
+},
+"samarth-darji": {
+"cutout": true,
+"src": "/images/results/samarth-darji.webp"
+},
+"samarth-dave": {
+"cutout": false,
+"src": "/images/toppers/samarth-dave.webp"
+},
+"samriddhi-yadav": {
+"cutout": true,
+"src": "/images/results/samriddhi-yadav.webp"
+},
+"sara-jawadvala": {
+"cutout": false,
+"src": "/images/toppers/sara-jawadvala.webp"
+},
+"sarthak-gupta": {
+"cutout": false,
+"src": "/images/toppers/sarthak-gupta.webp"
+},
+"sarthi-kanade": {
+"cutout": false,
+"src": "/images/toppers/sarthi-kanade.webp"
+},
+"sawmya-dadheech": {
+"cutout": false,
+"src": "/images/toppers/sawmya-dadheech.webp"
+},
+"sheetal-gupta": {
+"cutout": false,
+"src": "/images/toppers/sheetal-gupta.webp"
+},
+"sheetal-jha": {
+"cutout": false,
+"src": "/images/toppers/sheetal-jha.webp"
+},
+"sheldon-chettier": {
+"cutout": false,
+"src": "/images/toppers/sheldon-chettier.webp"
+},
+"shivam-singh": {
+"cutout": false,
+"src": "/images/toppers/shivam-singh.webp"
+},
+"shivam-yadav": {
+"cutout": false,
+"src": "/images/toppers/shivam-yadav.webp"
+},
+"shivani-pandit": {
+"cutout": false,
+"src": "/images/toppers/shivani-pandit.webp"
+},
+"shreya-adawale": {
+"cutout": true,
+"src": "/images/results/shreya-adawale.webp"
+},
+"shreya-mane": {
+"cutout": false,
+"src": "/images/toppers/shreya-mane.webp"
+},
+"shreya-vishwakarma": {
+"cutout": false,
+"src": "/images/toppers/shreya-vishwakarma.webp"
+},
+"shruti-bhosale": {
+"cutout": true,
+"src": "/images/results/shruti-bhosale.webp"
+},
+"shubh-sarvaiya": {
+"cutout": false,
+"src": "/images/toppers/shubh-sarvaiya.webp"
+},
+"shubham-banekar": {
+"cutout": false,
+"src": "/images/toppers/shubham-banekar.webp"
+},
+"shubham-pal": {
+"cutout": false,
+"src": "/images/toppers/shubham-pal.webp"
+},
+"shubham-yadav": {
+"cutout": true,
+"src": "/images/results/shubham-yadav.webp"
+},
+"siddharth": {
+"cutout": true,
+"src": "/images/results/siddharth.webp"
+},
+"simran-pal": {
+"cutout": true,
+"src": "/images/results/simran-pal.webp"
+},
+"soham-rane": {
+"cutout": true,
+"src": "/images/results/soham-rane.webp"
+},
+"sonal-sharma": {
+"cutout": false,
+"src": "/images/toppers/sonal-sharma.webp"
+},
+"sujal-bagwe": {
+"cutout": true,
+"src": "/images/results/sujal-bagwe.webp"
+},
+"sujal-jhangam": {
+"cutout": false,
+"src": "/images/toppers/sujal-jhangam.webp"
+},
+"surabhi-pandey": {
+"cutout": false,
+"src": "/images/toppers/surabhi-pandey.webp"
+},
+"suryodaya-pandey": {
+"cutout": false,
+"src": "/images/toppers/suryodaya-pandey.webp"
+},
+"swarda-nakashe": {
+"cutout": false,
+"src": "/images/toppers/swarda-nakashe.webp"
+},
+"taher-kanchwala": {
+"cutout": false,
+"src": "/images/toppers/taher-kanchwala.webp"
+},
+"taitil-chedda": {
+"cutout": false,
+"src": "/images/toppers/taitil-chedda.webp"
+},
+"tanish-rane": {
+"cutout": false,
+"src": "/images/toppers/tanish-rane.webp"
+},
+"tanish-shah": {
+"cutout": false,
+"src": "/images/toppers/tanish-shah.webp"
+},
+"tanishka-dhanudharmo": {
+"cutout": false,
+"src": "/images/toppers/tanishka-dhanudharmo.webp"
+},
+"tanmay-rapelli": {
+"cutout": true,
+"src": "/images/results/tanmay-rapelli.webp"
+},
+"tanush-sallan": {
+"cutout": false,
+"src": "/images/toppers/tanush-sallan.webp"
+},
+"tanusha-sawant": {
+"cutout": false,
+"src": "/images/toppers/tanusha-sawant.webp"
+},
+"tarun-asthana": {
+"cutout": false,
+"src": "/images/toppers/tarun-asthana.webp"
+},
+"tisha-parmar": {
+"cutout": false,
+"src": "/images/toppers/tisha-parmar.webp"
+},
+"vaibhav-pawar": {
+"cutout": false,
+"src": "/images/toppers/vaibhav-pawar.webp"
+},
+"vaishnavi-thakur": {
+"cutout": true,
+"src": "/images/results/vaishnavi-thakur.webp"
+},
+"vaishnavi-tiwari": {
+"cutout": false,
+"src": "/images/toppers/vaishnavi-tiwari.webp"
+},
+"vandan-jethwa": {
+"cutout": false,
+"src": "/images/toppers/vandan-jethwa.webp"
+},
+"vanita-gogge": {
+"cutout": false,
+"src": "/images/toppers/vanita-gogge.webp"
+},
+"vedanshi-kakadia": {
+"cutout": true,
+"src": "/images/results/vedanshi-kakadia.webp"
+},
+"vedanshi-tiwari": {
+"cutout": false,
+"src": "/images/toppers/vedanshi-tiwari.webp"
+},
+"vedant-parab": {
+"cutout": false,
+"src": "/images/toppers/vedant-parab.webp"
+},
+"veer-riziya": {
+"cutout": true,
+"src": "/images/results/veer-riziya.webp"
+},
+"vidhi-shah": {
+"cutout": false,
+"src": "/images/toppers/vidhi-shah.webp"
+},
+"vikramaditya-gupta": {
+"cutout": false,
+"src": "/images/toppers/vikramaditya-gupta.webp"
+},
+"vindhesh-mishra": {
+"cutout": false,
+"src": "/images/toppers/vindhesh-mishra.webp"
+},
+"vishakha-samant": {
+"cutout": false,
+"src": "/images/toppers/vishakha-samant.webp"
+},
+"vishal-gupta": {
+"cutout": false,
+"src": "/images/toppers/vishal-gupta.webp"
+},
+"vyom-dave": {
+"cutout": true,
+"src": "/images/results/vyom-dave.webp"
+},
+"yash-kanjaria": {
+"cutout": false,
+"src": "/images/toppers/yash-kanjaria.webp"
+},
+"yogita-soni": {
+"cutout": false,
+"src": "/images/toppers/yogita-soni.webp"
+},
+"yug-deshmukh": {
+"cutout": false,
+"src": "/images/toppers/yug-deshmukh.webp"
+},
+"zeon-dsouza": {
+"cutout": false,
+"src": "/images/toppers/zeon-dsouza.webp"
+}
+}
